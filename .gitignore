@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+*.db
+*.db-journal
+.env*.local
+next-env.d.ts
+*.tsbuildinfo
+
+# env files (secrets)
+.env*
+!.env.example
